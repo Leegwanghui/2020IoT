@@ -1,0 +1,62 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+새로운 크로스 플랫폼 PowerShell 사용 https://aka.ms/pscore6
+
+PS C:\Users\united> ibmcloud login
+API 엔드포인트: https://cloud.ibm.com
+지역: us-south
+
+Email> 15481066@konyang.ac.kr
+
+Password>
+인증 중...
+확인
+
+대상 지정된 계정 광희 이's Account (2e8b2b05118f492689d42cf5a84075e3)
+
+
+API 엔드포인트:      https://cloud.ibm.com
+지역:                us-south
+사용자:              15481066@konyang.ac.kr
+계정:                광희 이's Account (2e8b2b05118f492689d42cf5a84075e3)
+리소스 그룹:         대상으로 지정된 리소스 그룹이 없습니다.'C:\Program Files\IBM\Cloud\bin\ibmcloud.exe target -g RESOURCE_GROUP' 명령을 사용하십시오.
+CF API 엔드포인트:
+조직:
+영역:
+PS C:\Users\united> ibmcloud resource groups
+15481066@konyang.ac.kr(으)로 2e8b2b05118f492689d42cf5a84075e3 계정에서 모든 리소스 그룹 검색 중...
+확인
+이름        ID                                 기본 그룹   상태
+MyFirstRG   7be34bbb84184560838ac6b2fa1cf326   true        ACTIVE
+PS C:\Users\united> ibmcloud target -g MyFirstRG
+대상 지정된 리소스 그룹 MyFirstRG
+
+
+
+API 엔드포인트:      https://cloud.ibm.com
+지역:                us-south
+사용자:              15481066@konyang.ac.kr
+계정:                광희 이's Account (2e8b2b05118f492689d42cf5a84075e3)
+리소스 그룹:         MyFirstRG
+CF API 엔드포인트:
+조직:
+영역:
+PS C:\Users\united> ibmcloud target -o 15481066@konyang.ac.kr -s test
+대상 지정된 Cloud Foundry(https://api.us-south.cf.cloud.ibm.com)
+
+대상 지정된 조직 15481066@konyang.ac.kr
+
+대상 지정된 영역 Test
+
+
+
+API 엔드포인트:      https://cloud.ibm.com
+지역:                us-south
+사용자:              15481066@konyang.ac.kr
+계정:                광희 이's Account (2e8b2b05118f492689d42cf5a84075e3)
+리소스 그룹:         MyFirstRG
+CF API 엔드포인트:   https://api.us-south.cf.cloud.ibm.com(API 버전: 2.153.0)
+조직:                15481066@konyang.ac.kr
+영역:                Test
+PS C:\Users\united>

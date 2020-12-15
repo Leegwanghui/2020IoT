@@ -1,0 +1,12 @@
+{
+    "AcceptRanges": "bytes",
+    "LastModified": "2020-12-13T15:25:13+00:00",
+    "ContentLength": 29237,
+    "ETag": "\"8ca502e525a6910e997e73bb96cc3ddb\"",
+    "ContentType": "image/jpeg",
+    "Metadata": {
+    	"name": "leegwanghui",
+	"number" : "15481066",
+	"work": "IBM"
+    }
+}

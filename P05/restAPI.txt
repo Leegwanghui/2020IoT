@@ -1,0 +1,40 @@
+
+새로운 크로스 플랫폼 PowerShell 사용 https://aka.ms/pscore6
+
+PS C:\Users\united>
+>> curl -X "POST" "https://iam.cloud.ibm.com/identity/token" \
+>>      -H 'Accept: application/json' \
+>>      -H 'Content-Type: application/x-www-form-urlencoded' \
+>>      --data-urlencode "apikey=0t6O6atnz4EL3QoYhvBW6ArRhIoFyPrjLZYIELr-7tY1" \
+>>      --data-urlencode "response_type=cloud_iam" \
+>>      --data-urlencode "grant_type=urn:ibm:params:oauth:grant-type:apikey"
+>>
+>>
+위치 줄:5 문자:8
++      --data-urlencode "apikey=0t6O6atnz4EL3QoYhvBW6ArRhIoFyPrjLZYIELr ...
++        ~
+단항 연산자 '--' 뒤에 식이 없습니다.
+위치 줄:5 문자:8
++      --data-urlencode "apikey=0t6O6atnz4EL3QoYhvBW6ArRhIoFyPrjLZYIELr ...
++        ~~~~~~~~~~~~~~
+식 또는 문에서 예기치 않은 'data-urlencode' 토큰입니다.
+위치 줄:6 문자:8
++      --data-urlencode "response_type=cloud_iam" \
++        ~
+단항 연산자 '--' 뒤에 식이 없습니다.
+위치 줄:6 문자:8
++      --data-urlencode "response_type=cloud_iam" \
++        ~~~~~~~~~~~~~~
+식 또는 문에서 예기치 않은 'data-urlencode' 토큰입니다.
+위치 줄:7 문자:8
++      --data-urlencode "grant_type=urn:ibm:params:oauth:grant-type:api ...
++        ~
+단항 연산자 '--' 뒤에 식이 없습니다.
+위치 줄:7 문자:8
++      --data-urlencode "grant_type=urn:ibm:params:oauth:grant-type:api ...
++        ~~~~~~~~~~~~~~
+식 또는 문에서 예기치 않은 'data-urlencode' 토큰입니다.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterOperator
+
+PS C:\Users\united>

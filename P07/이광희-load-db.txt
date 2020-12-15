@@ -1,0 +1,88 @@
+Microsoft Windows [Version 10.0.18362.175]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\united>cd C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14
+
+C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14>npm install cloudant
+npm WARN deprecated cloudant@1.10.0-NOTICE: This package is now scoped. The new name is @cloudant/cloudant
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\cliui-2bcac751\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\signal-exit-fcb9f4f5\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\set-blocking-f133bbe1\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\sift-22f5a785\MIT-LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\express-validator-12aa7176\website\static\img\favicon.png'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\needle-2dcc885c\license.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\nano-dc4339b4\tests\fixtures\logo.png'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\punycode-5800f21b\LICENSE-MIT.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\performance-now-d434bdc0\license.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\path-is-inside-4cbe5811\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\wordwrap-5e50977b\test\idleness.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\mkdirp-e1ee8ff5\bin\usage.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\mute-stream-68633cf9\coverage\lcov-report\sort-arrow-sprite.png'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\jsesc-12999e99\LICENSE-MIT.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\he-0ca61d5b\LICENSE-MIT.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\circular-json-e3667583\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\esquery-208702ac\license.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\dashdash-85cf8344\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\circular-json-47bebf34\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\wordwrap-7e6ae204\test\idleness.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\all-files-ignored.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\extend-config-missing.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\failed-to-read-json.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\file-not-found.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\no-config-found.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\plugin-missing.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\eslint-0e7b5e20\messages\whitespace-found.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\punycode-dd21cd24\LICENSE-MIT.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\rxjs-296861fb\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\rxjs-296861fb\_esm2015\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\rxjs-296861fb\_esm5\LICENSE.txt'
+npm WARN tar EPERM: operation not permitted, open 'C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\node_modules\.staging\rxjs-296861fb\src\LICENSE.txt'
+npm ERR! cb() never called!
+
+npm ERR! This is an error with npm itself. Please report this error at:
+npm ERR!     <https://npm.community>
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\united\AppData\Roaming\npm-cache\_logs\2020-12-15T15_22_45_873Z-debug.log
+
+C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14>npm run load-db
+
+> unit-14@1.0.0 load-db C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14
+> node ./utils/load-cloudant
+
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'uuid/v4'
+Require stack:
+- C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\utils\load-cloudant.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14\utils\load-cloudant.js:19:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\united\\Desktop\\IBM\\IBM-Developer-master\\Node.js\\Course\\Unit-14\\utils\\load-cloudant.js'
+  ]
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! unit-14@1.0.0 load-db: `node ./utils/load-cloudant`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the unit-14@1.0.0 load-db script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\united\AppData\Roaming\npm-cache\_logs\2020-12-15T15_23_13_768Z-debug.log
+
+C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14>
+
+C:\Users\united\Desktop\IBM\IBM-Developer-master\Node.js\Course\Unit-14>

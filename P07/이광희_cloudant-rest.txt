@@ -1,0 +1,7 @@
+Microsoft Windows [Version 10.0.18362.175]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\united>curl -H "Authorization: Bearer $API_BEARER_TOKEN" -X GET "https://70832a79-0366-4558-9969-288df457493a-bluemix.cloudantnosqldb.appdomain.cloud
+{"error":"bad_request","reason":"Malformed token"}
+
+C:\Users\united> 
